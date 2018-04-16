@@ -32,7 +32,7 @@ sites:
       - build.wordpress-develop.test
 
   # The following commented out site configuration will create a standard WordPress
-  # site in www/example-site/ available at http://my-example-site.dev.
+  # site in www/example-site/ available at http://my-example-site.test.
   # Remember, whitespace is significant! Tabs and spaces mean different things
 
   #example-site:
